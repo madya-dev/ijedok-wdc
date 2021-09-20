@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "dr. Gede Made",
+    "profesi": "Dokter Umum",
+    "star": 4.5,
+    "responden": "1k",
+    "experience": 5,
+    "image": "/image/doctor/a.jpg",
+    "covid19Access": false
+  },
+  {
+    "id": "2",
+    "name": "dr. Takiya Genji",
+    "profesi": "Dokter Umum",
+    "star": 4.3,
+    "responden": "5k",
+    "experience": 5,
+    "image": "/image/doctor/b.jpg",
+    "covid19Access": true
+  },
+  {
+    "id": "3",
+    "name": "dr. Esmeralda, Sp.OG",
+    "profesi": "Kebidanan Kandungan",
+    "star": 4,
+    "responden": "500",
+    "experience": 3,
+    "image": "/image/doctor/d.jpg",
+    "covid19Access": false
+  },
+  {
+    "id": "4",
+    "name": "dr. A. Kaburagi Kazeo, Sp.A",
+    "profesi": "Dokter Anak",
+    "star": 4.5,
+    "responden": "3.5k",
+    "experience": 5,
+    "image": "/image/doctor/c.jpg",
+    "covid19Access": false
+  }
+]

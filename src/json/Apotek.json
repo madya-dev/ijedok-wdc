@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Apotek Rhizoma",
+    "role": "Apotek",
+    "buka": "09:00 Wita",
+    "tutup": "20:00 Wita",
+    "telepon": "xxxx",
+    "alamat": "Jl. Brigjen Ngurah Rai No.27, Kawan, Kec. Bangli, Kabupaten Bangli",
+    "image": "/image/apotek/rhizoma.png"
+  },
+  {
+    "id": "2",
+    "name": "Kurnia Farma",
+    "role": "Apotek",
+    "buka": "09:00 Wita",
+    "tutup": "20:00 Wita",
+    "telepon": "xxxx",
+    "alamat": "Jl. Brigjen Ngurah Rai No.12, Kawan, Kec. Bangli, Kabupaten Bangli, Bali",
+    "image": "/image/apotek/kurniafarma.png"
+  },
+  {
+    "id": "3",
+    "name": "Ngurah Rai Farma",
+    "role": "Apotek",
+    "buka": "09:00 Wita",
+    "tutup": "20:00 Wita",
+    "telepon": "xxxx",
+    "alamat": "Jl. Brigjen Ngurah Rai, Kawan, Kec. Bangli, Kabupaten Bangli, Bali",
+    "image": "/image/apotek/ngurahraifarma.png"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "1",
+  "name": "Vaksinasi SMPN 1 Tembuku | Puskesmas Tembuku I",
+  "role": "Puskesmas",
+  "date": "20 September 2021",
+  "buka": "09:00",
+  "tutup": "15:00",
+  "telepon": "xxxx",
+  "alamat": "Jl. Uluwatu No. 23, Tembuku, Kabupaten Bangli, Bali",
+  "image": "/image/vaksinasi/smp1tbk.png",
+  "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3946.4751070996676!2d115.3824923153884!3d-8.453091487774756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd21a23df456941%3A0xd349499f1b6d1b2e!2sSMP%20Negeri%201%20Tembuku!5e0!3m2!1sen!2sid!4v1632101388004!5m2!1sen!2sid",
+  "link": "https://goo.gl/maps/RfRo2SZjCBnqNGDT9",
+  "note": "Peserta vaksinasi harap membawa fotocopy KTP dan hanya melayani vaksin ke-2"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "1",
+  "name": "Apotek Rhizoma",
+  "role": "Apotek",
+  "date": "Setiap hari",
+  "buka": "09:00",
+  "tutup": "20:00",
+  "telepon": "xxxx",
+  "alamat": "Jl. Brigjen Ngurah Rai No.27, Kawan, Kec. Bangli, Kabupaten Bangli",
+  "image": "/image/apotek/rhizoma.png",
+  "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d986.6103644603598!2d115.35257562923252!3d-8.456378073095477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd219bfb4f57761%3A0x3f32fa2b2c590de4!2sApotek%20Rhizoma!5e0!3m2!1sen!2sid!4v1632065466155!5m2!1sen!2sid",
+  "link": "https://goo.gl/maps/n8kuT1dDju8f7do67"
+}

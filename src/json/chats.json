@@ -1,0 +1,138 @@
+[
+  {
+    "id": "3",
+    "img": "/image/doctor/d.jpg",
+    "name": "dr. Esmeralda, Sp.OG",
+    "chats": [
+      {
+        "sender": "0",
+        "time": "19:10",
+        "message": "selamat malam dok, ini anak saya usianya baru 6 bulan apa sudah boleh di kasi makan selain ASI blum dok ?"
+      },
+      {
+        "sender": "1",
+        "time": "19:19",
+        "message": "alasannya apa ya bu mau ngasik makan selain asi?"
+      },
+      {
+        "sender": "0",
+        "time": "19:21",
+        "message": "saya harus bekerja seharian dok jadi tidak bisa memberi ASI ke anak"
+      },
+      {
+        "sender": "1",
+        "time": "19:22",
+        "message": "sebaiknya saat usia seperti ini anak masih tetap mengkonsumsi asi bu"
+      },
+      {
+        "sender": "0",
+        "time": "19:22",
+        "message": "kalau saya kasi susu formula tidak boleh ya dok ?"
+      },
+      {
+        "sender": "1",
+        "time": "19:24",
+        "message": "sebaiknya jangan bu tpi kalau mau diselingi dengan makanan pendamping asi tidak masalah"
+      },
+      {
+        "sender": "1",
+        "time": "19:24",
+        "message": "selama bayi nyaman"
+      },
+      {
+        "sender": "1",
+        "time": "19:24",
+        "message": "namun asi tetap utama bu"
+      },
+      {
+        "sender": "0",
+        "time": "19:25",
+        "message": "baik dok terimakasih banyak atas informasi yang telah diberikan kepada saya dan sudah merespon."
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "img": "/image/doctor/b.jpg",
+    "name": "dr. Takiya Genji",
+    "chats": [
+      {
+        "sender": "0",
+        "time": "16:00",
+        "message": "selamat sore dok , saya mempunyai keluhan demam , sakit tenggorokan dan susah mencium aroma dok , kira kira saya kenapa ya ?"
+      },
+      {
+        "sender": "1",
+        "time": "16:09",
+        "message": "selamat sore, kalau boleh tau gejala gejala tersebut muncul sejak kapan buk ?"
+      },
+      {
+        "sender": "0",
+        "time": "16:11",
+        "message": "kira kira sudah sejak seminggu yang lalu dok, gejalanya tidak hilang"
+      },
+      {
+        "sender": "1",
+        "time": "16:12",
+        "message": "apakah ibu pernah berinteraksi dengan seseorng yang terkena covid sebelumnya ?"
+      },
+      {
+        "sender": "0",
+        "time": "16:12",
+        "message": "bebrapa hari yang lalu saya pernah berinteraksi dengan orng yang telah sembuh dari covid dok"
+      },
+      {
+        "sender": "1",
+        "time": "16:15",
+        "message": "kalou begitu saya akan buatkan rujukan ke rs ya ibu untuk mendapat pemeriksaan yang lebih lanjut"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "img": "/image/doctor/c.jpg",
+    "name": "dr. A. Kaburagi Kazeo, Sp.A",
+    "chats": [
+      {
+        "sender": "0",
+        "time": "09:50",
+        "message": "selamat pagi dokter, beberapa bulan terakhir menstruasi saya tidak lancar dan perut terasa sangat sakit saat menjelang menstruasi , apa hal tersebut wajar dok atau perlu pemeriksaan lebih lanjut ?"
+      },
+      {
+        "sender": "1",
+        "time": "09:59",
+        "message": "sudah berapa lama dik mens nya tidak lancar?"
+      },
+      {
+        "sender": "0",
+        "time": "10:01",
+        "message": "kurang lebih sejak 3 bulan lalu dok"
+      },
+      {
+        "sender": "1",
+        "time": "10:02",
+        "message": "apakah sebelumnya adik pernah mengalami kecelakaan?"
+      },
+      {
+        "sender": "0",
+        "time": "10:02",
+        "message": "tidak dok"
+      },
+      {
+        "sender": "1",
+        "time": "10:05",
+        "message": "atau mungkin sedang menjalani program diet atau olahraga yang berat?"
+      },
+      {
+        "sender": "0",
+        "time": "10:06",
+        "message": "tidak juga dok saya tidak dalam program diet"
+      },
+      {
+        "sender": "1",
+        "time": "10:08",
+        "message": "baik kalau tidak, silakan segera memeriksakan keadaan lebih lanjut ke Rumah Sakit ya dik."
+      }
+    ]
+  }
+]

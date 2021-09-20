@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "RSU Bangli",
+    "role": "Rumah Sakit",
+    "telepon": "xxxx",
+    "alamat": "Jl. Brigjen Ngurah Rai No.10, Kawan, Kec. Bangli, Kabupaten Bangli, Bali 80614",
+    "image": "/image/testcovid/rsubangli.png",
+    "minPrice": "76.000,00",
+    "maxPrice": "900.000,00"
+  },
+  {
+    "id": "1",
+    "name": "BMC",
+    "role": "Rumah Sakit",
+    "telepon": "xxxx",
+    "alamat": "JL. L.C. Subak Aya, Kawan, Kec. Bangli, Kabupaten Bangli, Bali",
+    "image": "/image/testcovid/bmc.png",
+    "minPrice": "76.000,00",
+    "maxPrice": "900.000,00"
+  },
+  {
+    "id": "1",
+    "name": "RSUD Klungkung",
+    "role": "Rumah Sakit",
+    "telepon": "xxxx",
+    "alamat": "Jl. Flamboyan No.40, Semarapura Kauh, Kec. Klungkung, Kabupaten Klungkung, Bali 80714",
+    "image": "/image/testcovid/rsudklungkung.png",
+    "minPrice": "76.000,00",
+    "maxPrice": "900.000,00"
+  }
+]

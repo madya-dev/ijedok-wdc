@@ -1,13 +1,147 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Roboto", sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.logo img {
+  width: 36px;
+  height: 36px;
+}
+.hero {
+  background: linear-gradient(
+    76.21deg,
+    #f3f4f6 -0.61%,
+    rgba(249, 250, 251, 0) 62.24%
+  );
+}
+
+.hero button {
+  box-shadow: 0px 4px 10px rgba(52, 211, 153, 0.5);
+}
+
+.rec.rec-arrow,
+.rec.rec-dot {
+  background-color: #ecfdf5;
+}
+.rec.rec-arrow.khvUfi:hover,
+.rec-dot.rec.rec-dot_active {
+  background-color: #34d399;
+}
+.jJKuoL,
+.jJKuoL:hover,
+.jJKuoL:focus {
+  box-shadow: 0 0 1px 3px #10b981 !important;
+}
+.card-testimoni .profile {
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  display: flex;
+  text-align: right;
+  width: 100%;
+  font-weight: 500;
+}
+.card-testimoni .profile img {
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.breadcrumb ol {
+  display: flex;
+  color: #d1d5db;
+  margin-bottom: 32px;
+  flex-wrap: wrap;
+}
+
+.breadcrumb ol .breadcrumb-item.active {
+  color: #34d399;
+  font-weight: 500;
+}
+.breadcrumb ol .breadcrumb-item::after {
+  content: "/";
+  color: #d1d5db;
+  margin: 0 16px;
+}
+.breadcrumb ol .breadcrumb-item.active::after {
+  content: "";
+  color: #d1d5db;
+  margin: 0 16px;
+}
+.card-dokter .image-card img,
+.card-menu .image-card img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  border-radius: 50%;
+}
+.text-truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.dr-truncate {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.chat-me,
+.chat-you {
+  width: fit-content;
+  display: block;
+  max-width: 66%;
+}
+.chat-me::before,
+.chat-you::before {
+  content: "";
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  background-color: white;
+  bottom: -0.5px;
+
+  clip-path: polygon(46% 47%, 0% 100%, 100% 100%);
+}
+.chat-you::before {
+  left: -10px;
+}
+.chat-me::before {
+  background-color: #34d399;
+  right: -10px;
+}
+.chat-wrapper {
+  position: relative;
+  display: flex;
+}
+.chat-wrapper.chat-me-wrapper {
+  justify-content: flex-end;
+}
+.chat-wrapper.chat-you-wrapper {
+  justify-content: flex-start;
+}
+.input-telp > * {
+  background-color: white;
+}
+.input-telp > *:focus {
+  outline: none;
+}
+*::-webkit-scrollbar,
+*::-webkit-scrollbar-thumb {
+  width: 10px;
+  border-radius: 13px;
+  background-clip: padding-box;
+  border: 1px solid transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  box-shadow: inset 0 0 0 0.75px;
+}
+@media (max-width: 640px) {
+  .rec.rec-arrow {
+    display: none;
+  }
 }

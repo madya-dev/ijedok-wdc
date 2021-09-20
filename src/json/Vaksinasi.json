@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Vaksinasi SMPN 1 Tembuku | Puskesmas Tembuku I",
+    "role": "Puskesmas",
+    "telepon": "xxxx",
+    "alamat": "Jl. Uluwatu No. 23, Tembuku, Kabupaten Bangli, Bali",
+    "image": "/image/vaksinasi/smp1tbk.png"
+  },
+  {
+    "id": "2",
+    "name": "Vaksinasi Puskesmas Tembuku I",
+    "role": "Puskesmas",
+    "telepon": "xxxx",
+    "alamat": "Jl. Kehen No. 1 Br. Tembuku Kawan, Kec. Tembuku, Kab. Bangli, Bali",
+    "image": "/image/vaksinasi/puskesmastembuku1.png"
+  },
+  {
+    "id": "3",
+    "name": "Vaksinasi Rumah Sakit Jiwa Prov. Bali",
+    "role": "Rumah Sakit",
+    "telepon": "xxxx",
+    "alamat": "Jl. Kesumayudha No.29, Kawan, Kec. Bangli, Kabupaten Bangli, Bali",
+    "image": "/image/vaksinasi/rsj.png"
+  }
+]
